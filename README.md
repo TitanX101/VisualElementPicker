@@ -37,7 +37,7 @@ public string myTypedElement;
 public string myFilteredElement;
 
 [VisualElementPicker(true)]
-public string myElementSkippingEmpty;```
-
+public string myElementSkippingEmpty;
+```
 ## TODO
 Although I'm not sure if this is possible yet, it would be interesting to be able to assign visual element references and ensure they don't get lost once their names are changed from the UI Builder. So this will be a POSSIBLE task to do.
